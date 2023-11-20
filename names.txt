@@ -1,0 +1,7 @@
+Hello this is me Harsh Misra
+Creating a git repository
+Trying to learn Githu
+:w
+:q
+
+
