@@ -1,8 +1,1 @@
-This is it atleast we are trying
-:w
-:q
-cat
-This is the new content i am writing
-Please checkout this one 
-:x
-
+writing in the file has become a new sort of game
