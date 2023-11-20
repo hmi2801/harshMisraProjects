@@ -1,7 +1,8 @@
-Hello this is me Harsh Misra
-Creating a git repository
-Trying to learn Githu
+This is it atleast we are trying
 :w
 :q
-
+cat
+This is the new content i am writing
+Please checkout this one 
+:x
 
